@@ -1,10 +1,18 @@
 
 #### to create env
 ```
-sudo apt install python3.10-venv
-cd to folder
-python3 -m venv myenv
-source myenv/bin/activate
+python -m venv myenv
+
+
+### To Activate Environment run below anyone command.
+For command prompt:
+
+    myenv\Scripts\activate.bat
+
+For PowerShell
+
+    myenv\Scripts\Activate.ps1
+
 ```
 
 ### INSTALLLATION
