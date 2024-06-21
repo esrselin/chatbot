@@ -1,10 +1,14 @@
 
+
 #### to create env
+
+Make sure you install `python` before running the below commands.
+
 ```
 python -m venv myenv
 
 
-### To Activate Environment run below anyone command.
+# To Activate Environment run below anyone command.
 For command prompt:
 
     myenv\Scripts\activate.bat
